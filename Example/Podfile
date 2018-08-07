@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JWJOPenKit_Example' do
+  pod 'JWJOPenKit', :path => '../'
+
+  target 'JWJOPenKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
