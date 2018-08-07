@@ -1,0 +1,22 @@
+{
+  "name": "JWJOPenKit",
+  "version": "0.1.0",
+  "summary": "A short description of JWJOPenKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fangmeigithub/JWJOPenKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fangmeigithub": "3095167957@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fangmeigithub/JWJOPenKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JWJOPenKit/Classes/**/*"
+}

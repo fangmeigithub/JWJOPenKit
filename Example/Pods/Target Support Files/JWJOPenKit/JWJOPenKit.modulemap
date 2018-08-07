@@ -1,0 +1,6 @@
+framework module JWJOPenKit {
+  umbrella header "JWJOPenKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

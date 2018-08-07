@@ -1,0 +1,16 @@
+PODS:
+  - JWJOPenKit (0.1.0)
+
+DEPENDENCIES:
+  - JWJOPenKit (from `../`)
+
+EXTERNAL SOURCES:
+  JWJOPenKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JWJOPenKit: 47432d8bfabdfde320fb7412b2273ff5ffc0fa5d
+
+PODFILE CHECKSUM: ddded878a6f9663939b50f3de651263227c64433
+
+COCOAPODS: 1.5.3
